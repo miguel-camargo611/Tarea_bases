@@ -1,0 +1,21 @@
+[{
+  "_id": 3,
+  "titulo": "Mi Biografia",
+  "anio_salida": 2003,
+  "autor": "Diomedes Diaz",
+  "id_imagen_portada": "img/mi_biografia.jpg"
+},
+{
+  "_id": 4,
+  "titulo": "La Plata",
+  "anio_salida": 2003,
+  "autor": "Diomedes Diaz",
+  "id_imagen_portada": "img/mi_biografia.jpg"
+},
+{
+  "_id": 103,
+  "titulo": "A Un Cariño Del Alma",
+  "anio_salida": 2003,
+  "autor": "Diomedes Diaz",
+  "id_imagen_portada": "img/mi_biografia.jpg"
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": 9,
+  "titulo": "Bohemian Rhapsody",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "img/opera.jpg"
+},
+{
+  "_id": 10,
+  "titulo": "Love of My Life",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "img/opera.jpg"
+},
+{
+  "_id": 106,
+  "titulo": "Seaside Rendezvous",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "img/opera.jpg"
+}]
